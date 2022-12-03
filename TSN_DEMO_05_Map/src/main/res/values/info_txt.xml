@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="startMarker_id">m0</string>
+    <string name="startMarker_title">Домашний адрес</string>
+    <string name="startMarker_info">
+        <![CDATA[
+               <b>Лермонтова 90</b> <BR>
+               Домашний адрес<BR>
+        ]]>
+        </string>
+    <string name="startMarker_file"></string>
+
+    <!--  -->
+
+    <string name="marker1_id">m1</string>
+    <string name="marker1_title">Greenwich</string>
+    <string name="marker1_txt_click">Greenwich</string>
+    <string name="marker1_info">
+        <![CDATA[
+        <b>Супермаркет Greenwich </b> <BR>
+        Один из крупных супермаркетов Павлодара<BR>
+        Имеется огромный ассортимент товара<BR>
+        График работы с 9:00 до 23:00 ежедневно<BR>
+        ]]>
+        </string>
+    <string name="marker1_file">file:///android_asset/Greenwich1/index.html</string>
+
+    <!--  -->
+
+    <string name="marker2_id">m2</string>
+    <string name="marker2_title">Greenwich</string>
+    <string name="marker2_txt_click">Супермаркет Greenwich</string>
+    <string name="marker2_info">
+        <![CDATA[
+        <b>Супермаркет Greenwich </b> <BR>
+        Один из крупных супермаркетов Павлодара<BR>
+        Имеется огромный ассортимент товара<BR>
+        График работы с 9:00 до 23:00 ежедневно<BR>
+        ]]>
+        </string>
+    <string name="marker2_file">file:///android_asset/Greenwich/index.html</string>
+
+
+    <string name="marker3_id">m3</string>
+    <string name="marker3_title">KASPI</string>
+    <string name="marker3_txt_click">KASPI Bank</string>
+    <string name="marker3_info">
+        <![CDATA[
+        <b>KASPI Bank </b> <BR>
+        Один из филиалов KASPI Bank в Павлодаре<BR>
+        График работы:<BR>
+        Понедельник-пятница с 9:00 до 20:00<BR>
+        Суббота-воскресенье с 9:00 до 18:00<BR>
+        ]]>
+        </string>
+    <string name="marker3_file">file:///android_asset/KASPI/index.html</string>
+
+    <string name="marker4_id">m4</string>
+    <string name="marker4_title">Крендель</string>
+    <string name="marker4_txt_click">Крендель</string>
+    <string name="marker4_info">
+        <![CDATA[
+        <b>Кондитерская Крендель </b> <BR>
+        Широкий выбор сладостей на любой вкус.<BR>
+        График работы с 9:00 до 21:00 ежедневно<BR>
+
+        ]]>
+</string>
+    <string name="marker4_file">file:///android_asset/Krendel/index.html</string>
+
+    <string name="marker5_id">m5</string>
+    <string name="marker5_title">Small</string>
+    <string name="marker5_txt_click">Small</string>
+    <string name="marker5_info">
+        <![CDATA[
+        <b>Супермаркет Small </b> <BR>
+        Один из крупных супермаркетов Павлодара<BR>
+        Имеется огромный ассортимент товара<BR>
+        График работы с 9:00 до 22:00 ежедневно<BR>
+        ]]>
+        </string>
+    <string name="marker5_file">file:///android_asset/Small/index.html</string>
+
+
+
+    <string name="marker6_id">m6</string>
+    <string name="marker6_title">Inmart</string>
+    <string name="marker6_txt_click">Inmart</string>
+    <string name="marker6_info">
+        <![CDATA[
+        <b>Супермаркет Inmart </b> <BR>
+        Один из крупных супермаркетов Павлодара<BR>
+        Имеется огромный ассортимент товара<BR>
+        График работы с 9:00 до 22:00 ежедневно<BR>
+        ]]>
+        </string>
+    <string name="marker6_file">file:///android_asset/Inmart/index.html</string>
+
+</resources>
